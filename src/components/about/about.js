@@ -28,12 +28,12 @@ export default class About extends Component {
                                 <div className="columns contact-details">
                                     <h2>Contact Details</h2>
                                     <p className="address">
-                                        <span>Jonathan Doe</span><br/>
-                                        <span>1600 Amphitheatre Parkway<br/>
-                    Mountain View, CA 94043 US
+                                        <span>King Cobra</span><br/>
+                                        <span>Canary Wharf<br/>
+                    London E14 9WH UK
                   </span><br/>
-                                        <span>(123)456-7890</span><br/>
-                                        <span>anyone@website.com</span>
+                                        <span>(+44)456-7890</span><br/>
+                                        <span>anyone@example.co.uk</span>
                                     </p>
                                 </div>
                                 <div className="columns download">

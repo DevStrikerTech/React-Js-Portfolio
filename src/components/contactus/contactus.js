@@ -63,10 +63,10 @@ export default class ContactUs extends Component {
                             <div className="widget widget_contact">
                                 <h4>Address and Phone</h4>
                                 <p className="address">
-                                    Jonathan Doe<br/>
-                                    1600 Amphitheatre Parkway <br/>
-                                    Mountain View, CA 94043 US<br/>
-                                    <span>(123) 456-7890</span>
+                                    King Cobra<br/>
+                                    Canary Wharf <br/>
+                                    London E14 9WH UK<br/>
+                                    <span>(+44) 456-7890</span>
                                 </p>
                             </div>
                             <div className="widget widget_tweets">
